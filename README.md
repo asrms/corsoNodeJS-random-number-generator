@@ -3,14 +3,16 @@
 
 ## Install
 
+``` bash
 npm install
-
+```
 
 
 ## usage backend
 
+``` bash
 ts-node main.ts
-
+```
 
 example output:
 {
